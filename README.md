@@ -1,1 +1,1 @@
-# Web3-Security-BootCamp
+# Ethereum and Web3 Security BootCamp
