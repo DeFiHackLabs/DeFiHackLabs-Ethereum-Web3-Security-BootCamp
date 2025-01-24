@@ -3,74 +3,85 @@
 ![Screenshot 2025-01-15 at 22.37.09](https://hackmd.io/_uploads/rkdKdrSPJe.png)
 
 
-## 發起組織
+## Organizator
 ![Screenshot 2025-01-15 at 22.39.24](https://hackmd.io/_uploads/B1qouSSvye.png)
 
-## Speaker, Mentor, 助教
+## Speaker, Mentor, Assistant
 
 | **Role**   | **Members**                              |
 |------------|------------------------------------------|
-| 🎤 **Speakers** | Alex, Alice, Louis, Bill, BlockSec, SlowMist |
-| 🌟 **Mentors**  | SunSec, Dr. Chiachih Wu              |
-| 🛠️ **助教**     | [Seal](https://github.com/finn79426), wiasliaw, York, [Rory](https://github.com/0xRory)           |
-| 🎯 **Ops**      | Helen, Alice, [Rory](https://github.com/0xRory)                  |
+| 🎤 **Speakers** | [Alex](https://x.com/0xAlex_Liao), [Alice](https://x.com/AliceHsu_kou), [Louis](https://x.com/0xlouistsai), [Bill](https://x.com/hibillh), [BlockSec](https://x.com/BlockSecTeam), [SlowMist](https://x.com/SlowMist_Team) |
+| 🌟 **Mentors**  | [SunSec](https://x.com/1nf0s3cpt), [Dr. Chiachih Wu ](https://x.com/chiachih_wu)             |
+| 🛠️ **Assistant**     | [Seal](https://github.com/finn79426), [wiasliaw](https://x.com/wiasliaw), [York](https://x.com/YorkChang01), [Rory](https://github.com/0xRory)           |
+| 🎯 **Ops**      | Helen, [Alice](https://x.com/AliceHsu_kou), [Rory](https://github.com/0xRory)                  |
 
 ---
 
-## 課程目錄
+## BootCamp Course
 
-### 9/25: Familiarize with Development Environment and Audit Process
+### Week1: Familiarize with Development Environment and Audit Process
 **Speaker**: Alex  
-[📺 Watch Video](https://www.youtube.com/watch?v=LTvE3HayxOk
-)
+[📺 Watch Video](https://www.youtube.com/watch?v=LTvE3HayxOk)
+[Assistant Session](https://youtu.be/USFy_AUdkLw)
 
-### 10/2: Introduction to Smart Contracts: ERC20, ERC721, ERC1155
+### Week2: Introduction to Smart Contracts: ERC20, ERC721, ERC1155
 **Speaker**: Alex  
 [📺 Watch Video](https://www.youtube.com/watch?v=JIZQmIEVVSE)
+[Assistant Session](https://youtu.be/lWgeOpV0YCo)
+[Assistant Session](https://youtu.be/pWVJewQixkg)
 
-### 10/16: Common Vulnerabilities - 1: DOS Attack & Access Control
+### Week3: Common Vulnerabilities - 1: DOS Attack & Access Control
 **Speaker**: Alice  
 [📺 Watch Video](https://www.youtube.com/watch?v=sL9rfKnjJ8U)
+[Assistant Session](https://www.youtube.com/watch?v=SSo6jDQxiTE)
 
-### 10/23: Common Vulnerabilities - 2: Randomness Vulnerability
+### Week4: Common Vulnerabilities - 2: Randomness Vulnerability
 **Speaker**: Alice  
 [📺 Watch Video](https://www.youtube.com/watch?v=YcmAnXtbuKI)
+[Assistant Session](https://youtu.be/jaw787qfVn0)
 
-### 10/30: Smart Contract Security Scanning Tools
+### Week5: Smart Contract Security Scanning Tools
 **Speaker**: Alice  
 [📺 Watch Video](https://www.youtube.com/watch?v=i8i-MVAiOEg)
+[Assistant Session](https://youtu.be/Yr9kmyBWNdM)
 
-### 11/6: Common Vulnerabilities - 3: Reentrancy Attack
+### Week6: Common Vulnerabilities - 3: Reentrancy Attack
 **Speaker**: Alex  
 [📺 Watch Video](https://www.youtube.com/watch?v=ozxRjpCd6-8)
+[Assistant Session](https://youtu.be/COkQeceIGcU)
 
-### 11/20: Common Vulnerabilities - 4: Call & Delegate Call Vulnerability
+### Week7: Common Vulnerabilities - 4: Call & Delegate Call Vulnerability
 **Speaker**: Alice  
 [📺 Watch Video](https://www.youtube.com/watch?v=2fEgjMvEEyE)
+[Assistant Session](https://youtu.be/hUWUUKsB7Gw)
 
-### 11/30: First Time - Offline Insight Time & 1-1 Mentor’s Time
+### First Time - Offline Insight Time  
 **Special Guest Speaker**:  
-[📺 Watch Video 1](https://www.youtube.com/watch?v=khsLKq49uP0)
-[📺 Watch Video 2](https://www.youtube.com/watch?v=ud192QZGn44)
+ 
+[📺 Watch Video 1: DeFiHackLabs Annual Review](https://www.youtube.com/watch?v=khsLKq49uP0)
+ 
+[📺 Watch Video 2: In Depth Analysis of Oracle Manipulation Attack](https://www.youtube.com/watch?v=ud192QZGn44)
 
-
-### 12/4: DeFi Security: Introduction
+### Week8: DeFi Security: Introduction
 **Speaker**: Louis  
 [📺 Watch Video](https://www.youtube.com/watch?v=0a97QKTx6-E)
+[Assistant Session](https://youtu.be/mE5xNMsZ1WY)
 
-### 12/11: Practical Exercises
+### Week9: Practical Exercises
 **Speaker**: Bill  
 [📺 Watch Video](https://www.youtube.com/watch?v=9swJf-KmCRs)
+[Assistant Session](https://youtu.be/gdpucj-Zcyk)
 
-### 12/18: DEX Security: Introduction to Cross-Chain Bridges, MultiChain, Layer2
+### Week10: DEX Security: Introduction to Cross-Chain Bridges, MultiChain, Layer2
 **Speaker**: Louis  
 [📺 Watch Video](https://www.youtube.com/watch?v=T82LnYNQ3yQ)
+[Assistant Session](https://youtu.be/zx_NFj5lbsQ)
 
-### 1/8: Practical On-Chain Analysis Tools
+### Week11: Practical On-Chain Analysis Tools
 **Speaker**: BlockSec  
 [📺 Watch Video](https://www.youtube.com/watch?v=rI5EwOCFJuQ )
 
-### 1/15: Phishing Attacks
+### Week12: Phishing Attacks
 **Speaker**: SlowMist  
 [📺 Watch Video](https://www.youtube.com/watch?v=NhBAjvca5Rc)
 
@@ -78,13 +89,13 @@
 
 ## Supporters
 
-感謝以下組織和個人對我們的支持與贊助：
+We sincerely thank the following organizations and individuals for their support and sponsorship.：
 
 ![Screenshot 2025-01-15 at 22.35.38](https://hackmd.io/_uploads/Hyi6wHBvkg.png)
 
 ---
 
-## 畢業學員
+## List of Graduates
 
 <table>
   <!-- 第 1 組：前 10 位 -->
@@ -222,24 +233,19 @@
 
 
 ---
-## 學員回饋
+## Student Reflections on BootCamp Experience
 
-- https://x.com/KuanHaoChen2/status/1878404993113616480
-
-- https://medium.com/@ritaren/%E6%B7%B1%E5%85%A5%E6%99%BA%E8%83%BD%E5%90%88%E7%B4%84%E5%AE%89%E5%85%A8-defihacklabs-%E4%BB%A5%E5%A4%AA%E5%9D%8A%E5%AE%89%E5%85%A8%E9%96%8B%E7%99%BC%E7%87%9F%E5%BF%83%E5%BE%97%E5%88%86%E4%BA%AB-9ada0f7d5af3
-
-- https://x.com/ariellin_0321/status/1879057848598172120?t=H81avjoZtwykIN7VI0-n5A&s=19
-
-- https://x.com/vincentho66/status/1879899531300798507?s=46
-
-- https://x.com/sponge_242/status/1879905744595882007
-- https://x.com/jun_lai99330/status/1880126584801448124
-
+- [Rita](https://pse.is/72udnk)  
+- [Hao](https://x.com/KuanHaoChen2/status/1878404993113616480)
+- [Ariel Lin](https://x.com/ariellin_0321/status/1879057848598172120?t=H81avjoZtwykIN7VI0-n5A&s=19)  
+- [Vincent Ho](https://x.com/vincentho66/status/1879899531300798507?s=46)  
+- [Sponge](https://x.com/sponge_242/status/1879905744595882007)    
+- [Mr. Lai](https://x.com/jun_lai99330/status/1880126584801448124)   
 
 
 ---
 
-感謝所有參與者，這段學習旅程是我們 Web3 安全領域邁進的重要一步！
+Thank you to all participants. This learning journey marks an important step forward in the field of Web3 security for us.！
 
 ---
 
