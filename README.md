@@ -1,4 +1,4 @@
-# DEFIHACKLABS Ethereum and Web3 Security Bootcamp
+# DeFiHackLabs Ethereum and Web3 Security Bootcamp
 
 ![Screenshot 2025-01-15 at 22.37.09](https://hackmd.io/_uploads/rkdKdrSPJe.png)
 
